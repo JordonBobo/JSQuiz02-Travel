@@ -43,7 +43,7 @@ var whichQuestion = 0;
 var answerX = "";
 var scores = document.getElementById("scores");
 var saveInitials = document.getElementById("initials");
-//saveInitials.style.visibility = "hidden";
+
 
 
 //Questions that will generate
@@ -136,12 +136,6 @@ var result = document.getElementById("result");
         $(restartButton).attr("onClick", "window.location.reload()").attr("class", "regularButton")
     }
     
-
-  
-    // $("#calendar").append(timeSlot);
-    // $(timeSlot).attr("id", "timeSlot" + y);
-    // relativeTime(y, timeSlot);
- 
     
     //Displays the questions one at a time
     function question(x) {

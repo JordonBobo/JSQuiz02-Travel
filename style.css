@@ -1,5 +1,4 @@
 
-
 body {
     background-color: lightblue;
 }
@@ -7,34 +6,17 @@ h1 {
     text-align: center;
 }
 
-.title {
-
-}
-
-
 #bold {
     font-weight: bold;
 }
 
-
-
 #start {
     margin-bottom: 10px;
-
 }
 
 #clock {
     margin-left: 75%;
 }
-
-.scoreboard {
-
-}
-
-
-
-
-
 
 .image {
     display: block;
@@ -43,7 +25,6 @@ h1 {
     width: 80%;
   }
 
-
 .regularButton {
     border-radius: 8px;
     background-color: lightsteelblue;
@@ -51,6 +32,7 @@ h1 {
     width: 90%;
     align-items: center;
 }
+
 .regularButton:hover {
     border-radius: 8px;
     background-color: orange;
@@ -65,6 +47,7 @@ h1 {
     font-size: 25px;
     width: 90%;
 }
+
 .formButton:hover {
     background-color: lightsteelblue;
 }
@@ -78,12 +61,9 @@ h1 {
     margin-left: 0 auto;
 }
 
-/* .resultPage {
-position: absolute;
-top: 35px;
-z-index: 10;
-} */
-
+#q1 {
+    text-align: center;
+}
 
 
 

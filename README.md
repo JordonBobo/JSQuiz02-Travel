@@ -1,7 +1,7 @@
-# JSQuiz02-TravelQuiz
+# JSQuiz02-Travel
 
-Git Hub link :  https://github.com/JordonBobo/JSQuiz02-TravelGame   
-Live link :   https://jordonbobo.github.io/JSQuiz02-TravelGame/  
+Git Hub link :  https://github.com/JordonBobo/JSQuiz02-Travel 
+Live link :   https://jordonbobo.github.io/JSQuiz02-Travel/ 
 
   
 
